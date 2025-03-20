@@ -77,9 +77,6 @@
 [submodule "codinfox-zola"]
 	path = codinfox-zola
 	url = https://github.com/svavs/codinfox-zola.git
-[submodule "juice"]
-	path = juice
-	url = https://github.com/huhu/juice.git
 [submodule "particle"]
 	path = particle
 	url = https://github.com/svavs/particle-zola.git
@@ -257,9 +254,6 @@
 [submodule "pico"]
 	path = pico
 	url = https://github.com/kuznetsov17/pico.git
-[submodule "otherworld"]
-	path = otherworld
-	url = https://git.blek.codes/blek/otherworld.git
 [submodule "academic-workshop"]
 	path = academic-workshop
 	url = https://github.com/aterenin/academic-workshop.git
@@ -281,3 +275,39 @@
 [submodule "neovim-theme"]
 	path = neovim-theme
 	url = git@github.com:Super-Botman/neovim-theme.git
+[submodule "project-portfolio"]
+	path = project-portfolio
+	url = git@github.com:awinterstein/zola-theme-project-portfolio.git
+[submodule "zluinav"]
+	path = zluinav
+	url = https://github.com/harrymkt/zluinav
+[submodule "linkita"]
+	path = linkita
+	url = https://codeberg.org/salif/linkita.git
+	branch = linkita
+[submodule "re137"]
+	path = re137
+	url = git@github.com:tinikov/re137.git
+[submodule "zola-agency"]
+	path = zola-agency
+	url = https://git.sr.ht/~vonzimp/zola-agency
+[submodule "radion"]
+	path = radion
+	url = https://github.com/micahkepe/radion.git
+[submodule "zola-theme-jiaxiang.wang"]
+	path = zola-theme-jiaxiang.wang
+	url = https://github.com/iWangJiaxiang/zola-theme-jiaxiang.wang
+	branch = main
+[submodule "homepage-creators"]
+	path = homepage-creators
+	url = https://github.com/iWangJiaxiang/Homepage-Creators.git
+	branch = main
+[submodule "zola-folio"]
+	path = zola-folio
+	url = https://github.com/evjrob/zola-folio
+[submodule "portfolio-starter-kit"]
+	path = portfolio-starter-kit
+	url = https://github.com/roblesch/portfolio-starter-kit.git
+[submodule "zola-futu"]
+	path = zola-futu
+	url = git@github.com:inhzus/zola-futu.git
