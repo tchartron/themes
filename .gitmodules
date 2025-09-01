@@ -311,3 +311,16 @@
 [submodule "zola-futu"]
 	path = zola-futu
 	url = git@github.com:inhzus/zola-futu.git
+[submodule "daisy"]
+	path = daisy
+	url = https://codeberg.org/winterstein/zola-theme-daisy.git
+	branch = main
+[submodule "BelResume"]
+	path = BelResume
+	url = https://github.com/cx48/BelResume.git
+[submodule "BelTree"]
+	path = BelTree
+	url = https://github.com/cx48/BelTree
+[submodule "parchment"]
+	path = parchment
+	url = https://github.com/jsonfry/parchment
